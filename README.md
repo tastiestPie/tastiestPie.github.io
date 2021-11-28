@@ -10,7 +10,8 @@ The website is primarily made using HTML, CSS, and Javascript. I've also use som
 for some parts for the website to make it more mobile friendly. Also because it looks nice. :)
 
 For my coding IDE, I used Atom and the Atom HTML Preview Plug-in by harmsk. I've had previous experience with
-Atom, and the preview plug-in was super helpful with making and debugging the website.
+Atom, and the preview plug-in was super helpful with making and debugging the website. I also dabbled in some
+CodePen for some prototyping.
 
 ## Challenges Faced
 
