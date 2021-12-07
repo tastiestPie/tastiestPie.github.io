@@ -11,10 +11,13 @@ footer {
   text-align: center;
 }
 
-.featured-project{
-    width: 50%;
+.about-me-pic {
+  background-image: url("Assets/AboutMe.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-.top-buffer{
-  margin-top:20px
+.white-text {
+  color: white;
 }
