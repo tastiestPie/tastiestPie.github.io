@@ -13,7 +13,9 @@ footer {
 
 .about-me-photo {
   height: auto;
+  max-height: 400px;
   width: 100%;
+  max-width:400px;
 }
 
 /*For Any Banner image */
