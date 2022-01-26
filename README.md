@@ -29,6 +29,7 @@ challenge when it came to implementation and bug fixing.
 
 ## Future (Potential) Features
 
+- Better mobile experience
 - Embeds for itch.io projects / youtube videos
 - Dev blog for current projects
 - Contact Form
