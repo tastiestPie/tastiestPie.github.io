@@ -1,5 +1,7 @@
 # tastiestPie.github.io - Gabriel Que's Personal Website (WIP)
 
+== This website was from when I started experimenting in web dev back in 2022. Not really in use now and hasn't been updated in years, but I'm keeping it around for posterity.  ==
+
 ## Overview
 
 Hi There! This is my personal website which showcases the some of the work I've done.
